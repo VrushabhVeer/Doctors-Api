@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+        "hospital": "Sakra",
+        "specialisation": "Nephrology",
+        "salary": "240000"
+    },
+    {
+        "id": 2,
+        "name": "Aditya",
+        "hospital": "Manipal",
+        "specialisation": "General",
+        "salary": "280000"
+    },
+    {
+        "id": 3,
+        "name": "Kanav",
+        "hospital": "Manipal",
+        "specialisation": "Radiologist",
+        "salary": "440000"
+    },
+    {
+        "id": 4,
+        "name": "Jacob",
+        "hospital": "Wilson",
+        "specialisation": "Cardiology",
+        "salary": "260000"
+    },
+    {
+        "id": 5,
+        "name": "Vishal",
+        "hospital": "Sakra",
+        "specialisation": "General",
+        "salary": "530000"
+    },
+    {
+        "id": 6,
+        "name": "Albert",
+        "hospital": "Manipal",
+        "specialisation": "Dentist",
+        "salary": "200000"
+    },
+    {
+        "id": 7,
+        "name": "Rajesh",
+        "hospital": "Wilson",
+        "specialisation": "ENT specialist",
+        "salary": "240000"
+    },
+    {
+        "id": 8,
+        "name": "Kalal",
+        "hospital": "Ervin",
+        "specialisation": "Psychiatrists",
+        "salary": "240000"
+    }
+]
